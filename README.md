@@ -8,7 +8,7 @@ I'm passionate about programming and always seeking opportunities to demonstrate
 Step into the world of mystery and deduction with my faithful recreation of the classic Clue board game. Get ready to solve thrilling murder mysteries and put your detective skills to the test!
 
 🦁 Zoo Database:
-I built an efficient and organized database for managing zoo data, from animal records to daily operations. Embracing my love for animals and technology, this project showcases my knack for creating practical solutions.
+I built a efficient and organized database for managing zoo data, from animal records to daily operations. Embracing my love for animals and technology, this project showcases my knack for creating practical solutions.
 
 🌌 Galaxy Wars:
 Embark on an interstellar adventure with Galaxy Wars, a space-themed game where players battle it out for supremacy in the cosmos. Witness the power of my coding as I bring this epic space saga to life!
