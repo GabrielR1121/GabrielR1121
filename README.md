@@ -14,13 +14,13 @@ I built an efficient and organized database for managing zoo data, from animal r
 Embark on an interstellar adventure with Galaxy Wars, a space-themed game where players battle it for cosmos supremacy. Witness the power of my coding as I bring this epic space saga to life!
 
 ## 💻 Known Languages
-- 🔹 Java
-- 🔹 Python
-- 🔹 JavaScript
-- 🔹 C#
+- Java 🍵
+- Python 🐍
+- JavaScript 🟨
+- C# 🟪
 
 ## 🔨 Known Frameworks
-- 🔹 .Net
+- .Net 🟪
 
 ## 🔥 Let's Collaborate
 I'm open to collaborating on exciting projects and contributing to the world of open-source software. If you're interested in teaming up or want to discuss anything related to coding and technology, feel free to reach out!
