@@ -20,6 +20,7 @@ Embark on an interstellar adventure with Galaxy Wars, a space-themed game where 
 - C# 🟪
 
 ## 🔨 Known Frameworks
+- Flask 🐍
 - .Net 🟪
 
 ## 🔥 Let's Collaborate
